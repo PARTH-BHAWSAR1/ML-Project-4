@@ -20,7 +20,7 @@ The dataset contains weather-related features such as:
 - `WindSpeed`
 - `Rainfall`: Target variable
 
-> Ensure your dataset (`rainfall_data.csv`) is placed in the same directory as the script.
+Dataset (`rainfall_data.csv`) is placed in the same directory as the script.
 
 ## 🔧 Technologies Used
 
